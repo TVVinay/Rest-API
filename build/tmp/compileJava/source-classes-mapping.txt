@@ -1,10 +1,28 @@
-UserResponse.java
- UserResponse
-Data.java
- Data
-Support.java
- Support
-AllUserResponse.java
- AllUserResponse
-UsersClient.java
- UsersClient
+User/getUsers/AllUserResponse.java
+ User.getUsers.AllUserResponse
+User/getUsers/Support.java
+ User.getUsers.Support
+User/getUsers/Data.java
+ User.getUsers.Data
+User/getUser/response/Support.java
+ User.getUser.response.Support
+User/getUser/request/UserRequest.java
+ User.getUser.request.UserRequest
+User/createUser/response/CreateUserReponse.java
+ User.createUser.response.CreateUserReponse
+User/getUser/response/UserResponse.java
+ User.getUser.response.UserResponse
+User/getUser/response/Data.java
+ User.getUser.response.Data
+User/createUser/request/CreateUserRequest.java
+ User.createUser.request.CreateUserRequest
+User/updateUser/UpdateUserRequest.java
+ User.updateUser.UpdateUserRequest
+User/updateUser/UpdateUserResponse.java
+ User.updateUser.UpdateUserResponse
+User/deleteUser/DeleteUserRequest.java
+ User.deleteUser.DeleteUserRequest
+User/UsersClient.java
+ User.UsersClient
+User/deleteUser/DeleteUserResponse.java
+ User.deleteUser.DeleteUserResponse
